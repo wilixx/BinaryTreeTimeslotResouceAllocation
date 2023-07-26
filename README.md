@@ -1,3 +1,3 @@
 # BinaryTreeTimeslotResouceAllocation
 
-The source code will be available soon.  
+The documentation of the source code will be available soon.  
